@@ -6,6 +6,7 @@ import { Button, WindowHeader, Window, WindowContent } from 'react95';
 import coldGray from 'react95/dist/themes/coldGray';
 import { withRouter } from 'react-router-dom';
 
+
 const Recipe = ({title, calories, image, ingredients, url}) =>{
     //  const routeChange = () => {
     //     let path = url;
