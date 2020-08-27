@@ -1,0 +1,80 @@
+.recipe{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+}
+
+Button:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.windowHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.headerTitle{
+    color: white;
+}
+.box1{
+    max-width:300px;
+    min-width: 200px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align:center;  
+}
+.box1 h1{
+    font-size:1.5em;
+}
+.box1 .window{
+    width:100%;
+}
+
+span{ 
+    text-align: left;
+    display: block;
+    max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.box2{
+    display:flex;
+    flex-direction: column;
+    padding: 20px 0;
+}
+
+.box2 h1{
+    text-align:center;
+    font-size: 1.5em;
+}
+
+.box3{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box3 h1{
+    font-size: 1em;
+}
+
+.box4{
+    margin: 0 auto;
+}
+
+.box4 h1{
+    font-size: 1.2em;
+}
+
+.image{
+    width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+
+  }

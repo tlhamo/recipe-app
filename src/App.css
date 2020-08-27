@@ -1,0 +1,33 @@
+.App{
+  min-height: 100vh;
+  background: #C7C7DF;
+  /* background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%); */
+}
+
+Link Button{
+  text-decoration: none;
+}
+
+.search-form{
+  width: 50%;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.recipes{
+  width: 90%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+@media only screen and (max-width: 1024px) {
+  .recipes {
+    grid-template-columns: 1fr;
+  }
+}
