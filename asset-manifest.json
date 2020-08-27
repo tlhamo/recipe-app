@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/recipeapp/static/css/main.4c8d22b0.chunk.css",
+    "main.js": "/recipeapp/static/js/main.ebec2361.chunk.js",
+    "main.js.map": "/recipeapp/static/js/main.ebec2361.chunk.js.map",
+    "runtime-main.js": "/recipeapp/static/js/runtime-main.83b6e7d9.js",
+    "runtime-main.js.map": "/recipeapp/static/js/runtime-main.83b6e7d9.js.map",
+    "static/js/2.6711340c.chunk.js": "/recipeapp/static/js/2.6711340c.chunk.js",
+    "static/js/2.6711340c.chunk.js.map": "/recipeapp/static/js/2.6711340c.chunk.js.map",
+    "index.html": "/recipeapp/index.html",
+    "precache-manifest.952fb1e0b3f10b158e6a7c55389b9486.js": "/recipeapp/precache-manifest.952fb1e0b3f10b158e6a7c55389b9486.js",
+    "service-worker.js": "/recipeapp/service-worker.js",
+    "static/css/main.4c8d22b0.chunk.css.map": "/recipeapp/static/css/main.4c8d22b0.chunk.css.map",
+    "static/js/2.6711340c.chunk.js.LICENSE.txt": "/recipeapp/static/js/2.6711340c.chunk.js.LICENSE.txt",
+    "static/media/ms_sans_serif.woff2": "/recipeapp/static/media/ms_sans_serif.1d4d404a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/recipeapp/static/media/ms_sans_serif_bold.cb1c7473.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83b6e7d9.js",
+    "static/js/2.6711340c.chunk.js",
+    "static/css/main.4c8d22b0.chunk.css",
+    "static/js/main.ebec2361.chunk.js"
+  ]
+}
